@@ -31,7 +31,7 @@ classes_star=[];k=0;
 opt_IMG_DB=1;
 opt_resume=0;
 opt_NFold=1;
-maxEpochs = 10; %20; % 30 %15;
+maxEpochs = 18; %20; % 30 %15;
 
 
 % opt_NFmax=input('opt_N_fold  0:all_files   [0] ');
